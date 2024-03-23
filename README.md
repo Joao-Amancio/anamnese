@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-anamnese">Anamnese</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-anamnese">Anamnese</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
 
 <br>
